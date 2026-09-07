@@ -1,0 +1,15 @@
+{
+  "name": "shell-missing-semester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "@antora/cli": "^3.2.0",
+    "@antora/site-generator-default": "^3.2.0"
+  }
+}

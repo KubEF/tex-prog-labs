@@ -1,0 +1,18 @@
+site:
+  title: Missing Semester
+  url: https://example.github.io/missing-semester
+content:
+  sources:
+    - url: ./.
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+asciidoc:
+  attributes:
+    figure-caption: "Рисунок"
+    important-caption: "Важно"
+    caution-caption: "Внимание"
+    note-caption: "Примечание"
+    tip-caption: "Совет"
+    warning-caption: "Опасность"
