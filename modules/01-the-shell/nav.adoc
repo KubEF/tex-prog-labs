@@ -1,5 +1,0 @@
-* xref:index.adoc[]
-** xref:navigation.adoc[]
-** xref:commands.adoc[]
-** xref:bash-language.adoc[]
-** xref:exercises.adoc[]

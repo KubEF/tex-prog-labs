@@ -1,6 +1,6 @@
 site:
   title: Missing Semester
-  url: https://example.github.io/missing-semester
+  url: https://kubef.github.io/tex-prog-linux-lab/
 content:
   sources:
     - url: ./.
@@ -8,6 +8,11 @@ ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
+  supplemental_files: ui
+antora:
+  extensions:
+    - require: "@antora/lunr-extension"
+      languages: [en, ru]
 asciidoc:
   attributes:
     figure-caption: "Рисунок"
