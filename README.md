@@ -4,8 +4,8 @@
 
 ## Ссылки
 
-- [Главная страница](https://kubef.github.io/tex-prog-linux-lab/)
+- [Главная страница](https://kubef.github.io/tex-prog-labs/)
 
 ## Лабораторные работы
 
-1. [Лабораторная работа 1: linux и shell](https://kubef.github.io/tex-prog-linux-lab/lab1.html)
+1. [Лабораторная работа 1: linux и shell](https://kubef.github.io/tex-prog-labs/lab1.html)

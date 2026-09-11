@@ -1,6 +1,6 @@
 site:
   title: Введение в технологии программирования
-  url: https://kubef.github.io/tex-prog-linux-lab/
+  url: https://kubef.github.io/tex-prog-labs/
 content:
   sources:
     - url: ./.
