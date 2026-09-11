@@ -1,5 +1,5 @@
 name: ROOT
 version: ~
-title: Missing Semester
+title: Введение в технологии программирования
 nav:
   - modules/ROOT/nav.adoc
